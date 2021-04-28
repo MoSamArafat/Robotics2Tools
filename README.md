@@ -1,4 +1,4 @@
-% Robotics2Tools: https://github.com/MoSamArafat/Robotics2Tools
+Robotics2Tools: https://github.com/MoSamArafat/Robotics2Tools
 
 Scripts based on Robotics 2 course at DIAG, Sapienza University of Rome taught by Prof. Alessandro De Luca.
 They are built to cover as many cases as found on previous exams.
